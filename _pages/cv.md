@@ -11,10 +11,8 @@ redirect_from:
 
 Education
 ======
-* PhD, Aeronautics and Astronautics, Massachusetts Institute of Technology, (Expected 2025)
-* SM, Aeronautics and Astronautics, Massachusetts Institute of Technology, 2022
-* B.Tech, Electrical Engineering, Indian Institute of Technology Madras, 2020
-
+* Computer Science, Rochester Institute of Technology, Expected 2024
+<!-- 
 Work experience
 ======
 * Fall 2020-Present: Graduate Research Assistant
@@ -66,4 +64,4 @@ Publications
   {% endfor %}</ul>
   
 
-For a detailed CV/resume please email me at `sidnayak at mit dot edu`
+For a detailed CV/resume please email me at `sidnayak at mit dot edu` -->
