@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Siddharth Nayak"
+title                    : "Kaiy Muhammad"
 title_separator          : "-"
-name                     : &name "Siddharth Nayak's Website"
+name                     : &name "Kaiy Muhammad's Website"
 description              : &description "personal description"
 url                      : https://kaiymuhammad.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -81,7 +81,7 @@ google_analytics: UA—163839465-1
 
 # Site Author
 author:
-  name             : "Siddharth Nayak"
+  name             : "Kaiy Muhammad"
   avatar           : "siddharth_nayak.jpg"
   bio              : "PhD Student at Massachusetts Institute of Technology"
   location         : "Cambridge, MA"
