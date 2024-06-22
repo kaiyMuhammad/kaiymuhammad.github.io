@@ -12,7 +12,7 @@ tags:
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nsidn98/nsidn98.github.io/master/images/grad_app.jpg" width="500"/>
+  <img src="https://raw.githubusercontent.com/kaiymuhammad/kaiymuhammad.github.io/master/images/grad_app.jpg" width="500"/>
 </p>
 
 In this blog, I would be describing my journey during the application process for graduate schools. This journey ranged from  listening  to [Eye of the Tiger](https://www.youtube.com/watch?v=btPJPFnesV4&list=RDo1tj2zJ2Wvg&index=8) by Survivor while preparing the application to listening [Lose Yourself](https://www.youtube.com/watch?v=_Yhyp-_hX2s)
@@ -47,13 +47,13 @@ For those who do not have enough time to read:
 First of all I would like to give some background on my application profile. I changed my major from aerospace engineering to electrical engineering after my first semester at Indian Institute of Technology Madras. Yes, I applied back in Aero after changing to Electrical! I'll explain the reason for this later in this post.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nsidn98/nsidn98.github.io/master/images/thanos.png" width="300"/>
+  <img src="https://raw.githubusercontent.com/kaiymuhammad/kaiymuhammad.github.io/master/images/thanos.png" width="300"/>
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nsidn98/nsidn98.github.io/master/images/thanos1.jpg" width="300"/>
+  <img src="https://raw.githubusercontent.com/kaiymuhammad/kaiymuhammad.github.io/master/images/thanos1.jpg" width="300"/>
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nsidn98/nsidn98.github.io/master/images/simpson1.jpg" align="center" width="300"/> 
+  <img src="https://raw.githubusercontent.com/kaiymuhammad/kaiymuhammad.github.io/master/images/simpson1.jpg" align="center" width="300"/> 
 </p>
 
 
@@ -63,11 +63,11 @@ I interned at Daimler AG, Germany after my second year on finding optimal camera
 
 After coming back, I extended my internship project by working with Prof. Balaraman Ravindran on using reinforcement learning for choosing optimal digital transformation in images to improve object detection performance. This work led to a research manuscript which was under review at a conference during my applications. 
 
-I interned at TCS Research and Innovation Lab, Mumbai after my third year where I worked on using reinforcement learning to solve the online version of the 3D bin-packing problem (kind of similar to 3D Tetris). This work led to a research paper which was under review during my applications ([paper](https://nsidn98.github.io/publication/2020-07-02-bin-packing)). 
+I interned at TCS Research and Innovation Lab, Mumbai after my third year where I worked on using reinforcement learning to solve the online version of the 3D bin-packing problem (kind of similar to 3D Tetris). This work led to a research paper which was under review during my applications ([paper](https://kaiymuhammad.github.io/publication/2020-07-02-bin-packing)). 
 
-Along with this I had worked on ["Hand Gesture Recognition for Soldiers"](https://github.com/nsidn98/Gesture-Recognition) and Automatic Waste Segregation Dustbin. 
+Along with this I had worked on ["Hand Gesture Recognition for Soldiers"](https://github.com/kaiymuhammad/Gesture-Recognition) and Automatic Waste Segregation Dustbin. 
 
-If you want to see my CV feel free to email me. The LaTex template I used for my CV can be found [here](https://github.com/nsidn98/nsidn98.github.io/blob/master/files/Application%20files/resume_template.tex)
+If you want to see my CV feel free to email me. The LaTex template I used for my CV can be found [here](https://github.com/kaiymuhammad/kaiymuhammad.github.io/blob/master/files/Application%20files/resume_template.tex)
 
 ### The GPA conundrum
 I had a CGPA of 8.87/10 while applying. Although my CGPA was not above the "*propitious*" 9.00 mark which a lot my seniors had advised me, I had taken several graduate-level courses which involved working on research projects as a part of the course evaluation. My performance in these courses was much better than in the undergraduate core courses which involved just exams for course evaluation. Do not take my GPA as an exemplar for not having a very high GPA. It is always advantageous to have your GPA as high as possible. Also, the admissions committee always looks for people who can conduct research and I think my projects and my letters of recommendations had a bigger role in getting me the admit rather than the GPA. (I am characterising my GPA as not high because I had a friend who was applying with a GPA of 9.99!)
@@ -95,7 +95,7 @@ Also, if you do not have a very high GPA, do not let it stop you from applying t
 After all the applications were submitted, my friends told me that the number of colleges I applied to is quite less and the list does not have any "*safe school*" which was actually true. Because I was applying in a diverse set of departments, I had to find relevant labs, go through their research as well as read the papers published by them. This took up a lot of time and thus I could not go through the labs in other colleges. Although, I wouldn't recommend **not** applying to safe schools as this just makes you anxious once your friends start getting admits and you do not hear back from any.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nsidn98/nsidn98.github.io/master/images/apply_number.png" width="400"/>
+  <img src="https://raw.githubusercontent.com/kaiymuhammad/kaiymuhammad.github.io/master/images/apply_number.png" width="400"/>
 </p>
 
 
@@ -125,7 +125,7 @@ ETS will allow you to send the scores for free (included in the exam fees) to fo
 ## Statement of Purpose
 Some say that it does not add value to the application while some disagree with this. I feel that the statement of purpose is quite important in the application. This is the place where you let them know the reasons why you think they should take you in. You have to tell them how you would benefit from their program and how you can contribute to their department through research. This is the place where you explain the chinks in your armour like a low GPA, or a gap year. Also, they should be genuine reasons and you should not get obsessed on explaining them in great detail and spend half a page on it.
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nsidn98/nsidn98.github.io/master/images/letmein.png" align="center" width="400"/> 
+  <img src="https://raw.githubusercontent.com/kaiymuhammad/kaiymuhammad.github.io/master/images/letmein.png" align="center" width="400"/> 
 </p>
 
 While some applications do not require SoPs per se as they ask you to answer a few questions with a word limit. 
@@ -150,12 +150,12 @@ The total length of my SoP was around two pages in 11pt font and had approximate
 
 If you are applying to a department other than the department you got your bachelors degree from, it is important to explain why you are switching fields and why it would be a good match. You should mention how each project you have worked on has helped you acquire particular skills which could help their department in research.
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nsidn98/nsidn98.github.io/master/images/skills.jpg" width="300"/>
+  <img src="https://raw.githubusercontent.com/kaiymuhammad/kaiymuhammad.github.io/master/images/skills.jpg" width="300"/>
 </p>
 
 Another important thing to remember while writing the SoP is that you should write your first few drafts in such a way that you can transfer its contents to the SoPs for all the universities. While I was writing my SoP, I spent two months writing the SoP for MIT. And then when I was done, I realised that the majority of my that SoP was specific to MIT and could not transfer it to other SoPs and had to write new drafts all over again. But while doing this it is also quite necessary to personalise each SoP for particular universities.
 
-Also, I would recommend at not looking at sample SoPs on the internet before writing your first draft as it would take away the uniqueness of your SoP as your SoP would get biased towards the samples you have seen before. I made the mistake of reading my senior's SoP early in August and thus had to wait for a month before starting my own so that I could forget about the stuff written in it. If you are ready with your SoP you can have a look at a rough sketch of my SoP [here](https://github.com/nsidn98/nsidn98.github.io/blob/master/files/Application%20files/SoP_sketch.md).
+Also, I would recommend at not looking at sample SoPs on the internet before writing your first draft as it would take away the uniqueness of your SoP as your SoP would get biased towards the samples you have seen before. I made the mistake of reading my senior's SoP early in August and thus had to wait for a month before starting my own so that I could forget about the stuff written in it. If you are ready with your SoP you can have a look at a rough sketch of my SoP [here](https://github.com/kaiymuhammad/kaiymuhammad.github.io/blob/master/files/Application%20files/SoP_sketch.md).
 
 The LaTeX template I used for my SoP can be found [here](https://tex.stackexchange.com/questions/150900/latex-coding-for-statement-of-purpose/150903#150903).
 
@@ -171,7 +171,7 @@ Once I was ready to send the requests for LoRs through the application portal, I
 * My final SoP draft
 * Transcripts
 * A copy of the paper/technical report of the project on which I worked with him
-* This [checklist](https://github.com/nsidn98/nsidn98.github.io/blob/master/files/Application%20files/LoR%20Checklist.xlsx) so that they know which profs and universities I am applying to
+* This [checklist](https://github.com/kaiymuhammad/kaiymuhammad.github.io/blob/master/files/Application%20files/LoR%20Checklist.xlsx) so that they know which profs and universities I am applying to
 
 You should also ask your recommenders if they require any document other than the ones mentioned above. Generally, they ask you the things they want when you request them for the LoRs.
 
@@ -192,46 +192,46 @@ For PhD applications, it is quite important to mail professors either before or 
 
 
 ## The Application Submissions
-Most of the universities have a long form to be filled up on a portal. You upload your resume, SoP, etc. on this portal. You also send LoR requests to your recommenders through this portal. All your details have to be filled in here. So you don't want to make a mistake here. For international students, it is important to fill in your name as it is in your passport. I used this [checklist](https://github.com/nsidn98/nsidn98.github.io/blob/master/files/Application%20files/Application%20Checklist.xlsx) for tracking all my applications. Just before submitting, I was rechecking the whole application again and again as if my life depended on it.
+Most of the universities have a long form to be filled up on a portal. You upload your resume, SoP, etc. on this portal. You also send LoR requests to your recommenders through this portal. All your details have to be filled in here. So you don't want to make a mistake here. For international students, it is important to fill in your name as it is in your passport. I used this [checklist](https://github.com/kaiymuhammad/kaiymuhammad.github.io/blob/master/files/Application%20files/Application%20Checklist.xlsx) for tracking all my applications. Just before submitting, I was rechecking the whole application again and again as if my life depended on it.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nsidn98/nsidn98.github.io/master/images/lose_yourself.gif" width="400"/>
+  <img src="https://raw.githubusercontent.com/kaiymuhammad/kaiymuhammad.github.io/master/images/lose_yourself.gif" width="400"/>
 </p>
 
 <!---
 And finally after submitting all the applications it felt so good to have nothing to do for a few days and enjoy the hard earned holidays before the dreaded results phase comes in.
 <p align="center">
-  <img src="https://github.com/nsidn98/nsidn98.github.io/blob/master/images/applied.jpeg" width="400"/>
+  <img src="https://github.com/kaiymuhammad/kaiymuhammad.github.io/blob/master/images/applied.jpeg" width="400"/>
 </p>
 -->
 
 ## The waiting period
 This is probably the hardest part of the application phase. Just after the submissions got over, my winter holidays started and I chose to pursue some of my hobbies which had been put on a (soft)hold for the past few months. I would recommend every one to take these holidays to de-stress yourself and get your attention away from the impending results.
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nsidn98/nsidn98.github.io/master/images/wait.jpg" width="400"/>
+  <img src="https://raw.githubusercontent.com/kaiymuhammad/kaiymuhammad.github.io/master/images/wait.jpg" width="400"/>
 </p>
 
 ## The results
 After the application submission, I was quite optimistic that I would get in at least four of the universities. Then reality set in! I got rejected by Stanford. After this first reject, I started questioning myself about whether I actually deserve to be in grad school and if I should have applied to more places. But then the lyrics of 'Don't You Worry Child' by Swedish House Mafia echoed through my mind.
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nsidn98/nsidn98.github.io/master/images/SHM.gif" width="400"/>
+  <img src="https://raw.githubusercontent.com/kaiymuhammad/kaiymuhammad.github.io/master/images/SHM.gif" width="400"/>
 </p>
 
 After the Stanford reject, a lot of my friends were getting their admits and a few of them already had more than two! And a few of them had interview calls from other universities. They were in a position to choose which university they wanted to attend and there was me just optimistically waiting for acceptances. Along with this, one of my friends introduced me to [GradCafe](https://www.thegradcafe.com/survey/index.php), a site where students who have received their admits post the date they got in along with other comments regarding their profile which helped them get accepted or rejected. After that, I was checking GradCafe daily and at one point I was getting frustrated on people getting admits from the same university I applied to and had not even heard back from. The only thing GradCafe helped with was letting me know when particular universities send out the last set of admits by checking previous years data. Two weeks after the Stanford rejection, I mailed the CMU admissions department regarding the admissions decisions as they had released the results by that time for the last three years. And BAM! within an hour of sending the mail, I got two consecutive rejection from CMU, one for the MS program and one for the PhD program in Robotics. By this time, all of my friends who had applied had got in some or the other university with me being the exception. After this, I started opening up my old projects which I had put on the sidelines because of the grad school applications. I thought that if I do not get it this time, then I should at least boost up my profile by working on my ideas and learn from it. I even started emailing professors asking for research internships following the same old routine as last year.
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nsidn98/nsidn98.github.io/master/images/rejects.png" width="300"/>
+  <img src="https://raw.githubusercontent.com/kaiymuhammad/kaiymuhammad.github.io/master/images/rejects.png" width="300"/>
 </p>
 
 <!--
 <p align="center">
-  <img src="https://github.com/nsidn98/nsidn98.github.io/blob/master/images/reject2.jpg" width="300"/>
+  <img src="https://github.com/kaiymuhammad/kaiymuhammad.github.io/blob/master/images/reject2.jpg" width="300"/>
 </p>
 -->
 The third week of February! This was the week where MIT AeroAstro was supposed to release their decisions. So if I got a mail from them then I was in, if not then I should assume that I have been either rejected or waitlisted. This is what I got from GradCafe by checking the dates on which MIT AeroAstro usually released their admit results. So the date for getting the acceptance mail was 22nd February. I was quite nervous that day and luckily I didn't have any classes that day. I was working on one of the projects and debugging the code and at 21:30 I got a mail from the MIT admissions administrator, which I didn't even read completely before celebrating in euphoria. I just read the first to line and saw the word 'delighted' which was enough for me to start the celebration as all the previous rejection mails started with 'We deeply regret ...' and this mail was different. 
 
 <!--
 <p align="center">
-  <img src="https://github.com/nsidn98/nsidn98.github.io/blob/master/images/accept.jpg" width="300"/>
+  <img src="https://github.com/kaiymuhammad/kaiymuhammad.github.io/blob/master/images/accept.jpg" width="300"/>
 </p>
 -->
 
